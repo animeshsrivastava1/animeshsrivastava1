@@ -1,168 +1,311 @@
 <div align="center">
-  <h1>Hi, I'm Animesh Srivastava 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Senior+Full-Stack+Developer+(MERN);5%2B+Years+Experience+%7C+Fortune+500+Clients;Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Animesh+Srivastava;Senior+Full-Stack+Developer+(MERN);5%2B+Years+%7C+Fortune+500+Clients;Building+Scalable+Enterprise+Solutions+%F0%9F%9A%80)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
-<h3 align="center">🚀 Results-driven developer with proven track record of 40% engagement increase & 30% time reduction</h3>
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="500">
+</div>
 
----
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Results-driven%E2%9A%A1+40%25+engagement+increase;30%25+time+reduction%E2%9A%A1+95%25%2B+code+quality;Fortune+500+clients%E2%9A%A1+Startup+to+Enterprise" alt="Typing SVG" />
+</h3>
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-I'm a seasoned Full-Stack Developer with **5 years** of diverse experience across service-based, product-based, and startup environments. I specialize in building scalable end-to-end web applications for enterprise clients including **Staples**, **Verizon**, and **Fortune 500** companies.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+I'm a seasoned **Full-Stack Developer** with **5 years** of diverse experience across service-based, product-based, and startup environments. I specialize in building scalable end-to-end web applications for enterprise clients including **Staples**, **Verizon**, and **Fortune 500** companies.
 
 - 🔭 Currently leading **AI-driven API testing platform** development
-- 🌱 Expert in **MERN stack** with **enterprise-grade** solutions
+- 🌱 Expert in **MERN stack** with **enterprise-grade** solutions  
 - 👯 Mentored **5+ developers** and established **95%+ code quality** standards
 - 💡 Passionate about **UI automation**, **microservices architecture**, and **performance optimization**
 - 🏆 Awarded **"Hive Five"** for exceptional performance at Newgen Software
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### Databases & ORMs
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-### 🚀 Full Stack Engineer | Sense & Respond Software LLC
-**Nov 2024 - Present** | *Early-Stage Startup*
-- Engineering **advanced UI Automation** feature with backend API integration
-- Leading **AI-driven API testing platform** development
-- **40% reduction** in form submission errors through React Hook Form implementation
-- Architected **RBAC system** with JWT authentication across microservices
-
-### 💎 Senior Software Design Engineer | Newgen Software
-**Aug 2022 - Aug 2024** | *Product-Based Company*
-- 🏆 **Awarded "Hive Five"** for exceptional performance
-- Developed **premium inline PDF editing** feature from scratch
-- **40% increase** in user engagement through dynamic UI architecture
-- Led full-stack development of **3 major enterprise products**
-- Mentored **5+ developers** maintaining **95%+ code quality**
-- Optimized systems serving **10,000+ daily active users**
-
-### ⚡ Programmer Analyst | Cognizant Technology Solutions
-**Jul 2020 - Jul 2022** | *Fortune 500 Clients*
-- Delivered solutions for **Verizon telecommunications** systems
-- **30% reduction** in development time through reusable components
-- Implemented **Redux state management** for **50,000+ concurrent users**
-- Led **UI/UX requirement analysis** and backend API specifications
-
----
-
-## 🎯 Key Achievements
-
-- 📈 **40% increase** in user engagement through innovative React.js solutions
-- ⚡ **30% time reduction** in development via reusable components  
-- 🎯 **95%+ code quality** standards maintained across teams
-- 📊 **50,000+ concurrent users** supported by scalable applications
-- 👥 **5+ developers** mentored and guided to senior levels
-- 🏆 **"Hive Five" award** for exceptional performance at Newgen
-
----
-
-## 🏗️ Featured Projects
-
-### 🤖 AI-Driven API Testing Platform
-**Tech Stack:** React.js, TypeScript, Node.js, Microservices
-- Advanced UI automation with screen recording technology
-- Timeline-based event capture and database storage
-- RBAC system with JWT authentication
-
-### 📄 Enterprise PDF Editing Solution
-**Tech Stack:** React.js, Node.js, Express.js, File Storage APIs
-- Premium inline PDF editing developed from scratch
-- Comprehensive frontend with backend document processing
-- Served 10,000+ daily active users
-
-### 🏢 Enterprise Automation Suite
-**Tech Stack:** MERN Stack, Redux, PostgreSQL
-- **Newgen One** - Enterprise automation platform
-- **OmniScan Web** - Document scanning solution  
-- **OmniOMS** - Content management system
-
----
-
-## 📊 GitHub Stats
+- 📫 How to reach me: **srivastava.animesh99@gmail.com**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=animeshsrivastava1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshsrivastava1&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshsrivastava1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science and Engineering**  
-*SRM University* | Aug 2016 - May 2020
-
----
-
-## 🌟 What Sets Me Apart
-
-### 🔄 **Diverse Industry Experience**
-Thrived across service-based (Cognizant), product-based (Newgen), and startup (Sense & Respond) environments
-
-### 📈 **Proven Impact**  
-Consistently delivered measurable results with 40% engagement increase and 30% development time reduction
-
-### 👥 **Leadership Excellence**
-Successfully mentored teams and established development standards maintaining 95%+ code quality
-
-### 🏢 **Enterprise Expertise**
-Built scalable solutions for Fortune 500 clients including Staples, Verizon, and major telecommunications systems
-
----
-
-## 🤝 Connect With Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://animesh-srivastava-dfrvojm.gamma.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animesh-srivastava-166376b3/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastava.animesh99@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919219902131)
+### <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="25" height="25" /> Frontend Technologies
+  
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+</p>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"> Backend Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
+  <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65" alt="JWT" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="65" height="65" alt="Prisma" />
+</p>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="25"> Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+</p>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25"> Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+</p>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 **Full Stack Engineer**
+**Sense & Respond Software LLC** | *Nov 2024 - Present*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**Key Achievements:**
+- 🎯 Engineering **advanced UI Automation** feature
+- 🤖 Leading **AI-driven API testing platform** 
+- ⚡ **40% reduction** in form submission errors
+- 🔐 Architected **RBAC system** with JWT
+
+</td>
+<td width="50%">
+
+### 💎 **Senior Software Design Engineer**  
+**Newgen Software** | *Aug 2022 - Aug 2024*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+
+**Key Achievements:**
+- 🏆 **Awarded "Hive Five"** for exceptional performance
+- 📄 **Premium inline PDF editing** from scratch
+- 📈 **40% increase** in user engagement
+- 👥 Mentored **5+ developers**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Key Achievements
+
+<div align="center">
+  
+| 🎯 **Achievement** | 📊 **Impact** | 🚀 **Technology** |
+|:------------------:|:-------------:|:-----------------:|
+| <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **User Engagement** | **40% increase** | React.js Solutions |
+| <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **Development Speed** | **30% time reduction** | Reusable Components |
+| <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Code Quality** | **95%+ standards** | Team Leadership |
+| <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> **Scalability** | **50,000+ users** | MERN Architecture |
+| <img src="https://user-images.githubusercontent.com/74038190/212284175-f47d74f6-9f75-4bb7-b3b8-c06b2aa51f5a.gif" width="30"> **Recognition** | **"Hive Five" Award** | Exceptional Performance |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> Featured Projects
+
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 **AI-Driven API Testing Platform**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+**Tech Stack:** React.js, TypeScript, Node.js, Microservices
+- ✨ Advanced UI automation with screen recording
+- 🎬 Timeline-based event capture
+- 🔐 RBAC system with JWT authentication
+- 💾 Database storage for automation scenarios
+
+</td>
+<td width="50%">
+
+### 📄 **Enterprise PDF Editing Solution**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
+
+**Tech Stack:** React.js, Node.js, Express.js, File APIs
+- 🎨 Premium inline PDF editing from scratch  
+- 🏗️ Comprehensive frontend architecture
+- ⚡ Backend document processing
+- 👥 Served 10,000+ daily active users
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> GitHub Analytics
+
+<div align="center">
+  
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=animeshsrivastava1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E4E4E7" alt="GitHub Stats" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?background=0D1117&theme=tokyonight&hide_border=true&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshsrivastava1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=E4E4E7" alt="Top Languages" />
+<img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=animeshsrivastava1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" alt="Activity Graph" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> GitHub Trophies
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=animeshsrivastava1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284175-f47d74f6-9f75-4bb7-b3b8-c06b2aa51f5a.gif" width="25"> Education & Certifications
+
+<div align="center">
+  
+### 🎓 **B.Tech in Computer Science and Engineering**
+**SRM University** | *Aug 2016 - May 2020*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="25"> What Sets Me Apart
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"><br>
+<sub><b>🔄 Diverse Experience</b></sub><br>
+<sub>Service-based • Product-based • Startup</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100"><br>
+<sub><b>📈 Proven Impact</b></sub><br>
+<sub>40% engagement • 30% time reduction</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"><br>
+<sub><b>👥 Leadership</b></sub><br>
+<sub>5+ developers mentored • 95% quality</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284175-f47d74f6-9f75-4bb7-b3b8-c06b2aa51f5a.gif" width="100"><br>
+<sub><b>🏢 Enterprise Ready</b></sub><br>
+<sub>Fortune 500 • Staples • Verizon</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"> Connect With Me
+
+<div align="center">
+  
+<a href="https://animesh-srivastava-dfrvojm.gamma.site/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/animesh-srivastava-166376b3/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:srivastava.animesh99@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="tel:+919219902131">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+</a>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"> Visitor Count
+
+<div align="center">
+  
+<img src="https://profile-counter.glitch.me/animeshsrivastava1/count.svg" alt="Visitor Count" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=animeshsrivastava1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 📈 Profile Views
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=animeshsrivastava1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=%F0%9F%92%BC+Open+to+Senior+Full-Stack+opportunities!;%F0%9F%A4%9D+Let's+build+something+amazing+together!;%E2%9A%A1+Building+scalable+solutions+that+make+a+difference" alt="Closing Message" />
 
----
+<br>
 
-<div align="center">
-  <h3>💼 Open to Senior Full-Stack opportunities and exciting collaborations!</h3>
-  <p><em>"Building scalable solutions that make a difference, one line of code at a time."</em></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
 </div>
