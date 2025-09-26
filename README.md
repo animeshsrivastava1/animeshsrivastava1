@@ -1,6 +1,6 @@
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Animesh+Srivastava;Senior+Full-Stack+Developer;5%2B+Years+of+Experience;Building+Scalable+Solutions+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Animesh+Srivastava;Senior+Full-Stack+Developer+(MERN);5%2B+Years+%7C+Service+%E2%86%92+Product+%E2%86%92+Startup;Building+Scalable+Enterprise+Solutions+%F0%9F%9A%80)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Fortune+500+Clients+%E2%9A%A1+Staples+%26+Verizon;40%25+Engagement+Boost+%E2%9A%A1+30%25+Time+Reduction;MERN+Expert+%E2%9A%A1+Enterprise+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Fortune+500+%E2%9A%A1+Staples+%26+Verizon+%E2%9A%A1+40%25+engagement+boost;Service-based+%E2%9A%A1+Product-based+%E2%9A%A1+Startup+expertise;95%25%2B+code+quality+%E2%9A%A1+30%25+time+reduction" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -22,9 +22,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm a seasoned **Full-Stack Developer** with **5+ years** of experience building scalable end-to-end web applications for enterprise clients including **Staples**, **Verizon**, and **Fortune 500** companies.
+I'm a seasoned **Full-Stack Developer** with **5 years** of diverse experience across **service-based**, **product-based**, and **startup** environments. I specialize in building scalable end-to-end web applications for enterprise clients including **Staples**, **Verizon**, and **Fortune 500** companies.
 
-- 🔭 Currently leading **AI-driven API testing platform** development at Sense & Respond
+- 🏢 **Unique Journey:** Service-based (Cognizant) → Product-based (Newgen) → Startup (Sense & Respond)
+- 🔭 Currently leading **AI-driven API testing platform** development
 - 🌱 Expert in **MERN stack** with **enterprise-grade** solutions  
 - 👯 Mentored **5+ developers** and established **95%+ code quality** standards
 - 💡 Passionate about **UI automation**, **microservices architecture**, and **performance optimization**
@@ -85,16 +86,17 @@ I'm a seasoned **Full-Stack Developer** with **5+ years** of experience building
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Professional Experience
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Professional Journey: Service → Product → Startup
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🚀 **Full Stack Engineer**
-**Sense & Respond Software LLC** | *Nov 2024 - Present*
+**Sense & Respond Software LLC** | *Nov 2024 - Present*  
+<sub>**🌟 Early-Stage Startup Environment**</sub>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 
 **Key Achievements:**
 - 🎯 Engineering **advanced UI Automation** feature
@@ -104,29 +106,30 @@ I'm a seasoned **Full-Stack Developer** with **5+ years** of experience building
 - 📱 Screen recording technology integration
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 💎 **Senior Software Design Engineer**  
-**Newgen Software** | *Aug 2022 - Aug 2024*
+**Newgen Software** | *Aug 2022 - Aug 2024*  
+<sub>**🏢 Product-Based Company**</sub>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200">
 
 **Key Achievements:**
 - 🏆 **Awarded "Hive Five"** for exceptional performance
 - 📄 **Premium inline PDF editing** from scratch
 - 📈 **40% increase** in user engagement
 - 👥 Mentored **5+ developers**, **95%+ code quality**
+- 🔧 Led **3 major enterprise products**
 - 📊 Optimized for **10,000+ daily users**
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
 ### ⚡ **Programmer Analyst**
-**Cognizant Technology Solutions** | *Jul 2020 - Jul 2022*
+**Cognizant Technology Solutions** | *Jul 2020 - Jul 2022*  
+<sub>**🌐 Service-Based • Fortune 500 Clients**</sub>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="280">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
 
 **Key Achievements:**
 - 🏢 Delivered solutions for **Verizon telecommunications**
@@ -134,20 +137,7 @@ I'm a seasoned **Full-Stack Developer** with **5+ years** of experience building
 - ⚡ **30% reduction** in development time
 - 📱 **Redux state management** for **50,000+ users**
 - 🎨 Led **UI/UX requirement analysis**
-
-</td>
-<td width="50%">
-
-### 🎯 **SDE Intern**
-**HCL InfoSystems** | *Jan 2019 - Jun 2019*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284175-f47d74f6-9f75-4bb7-b3b8-c06b2aa51f5a.gif" width="280">
-
-**Key Learning:**
-- 🚀 **Hands-on full-stack development** experience
-- 📚 Mastered **industry best practices** and standards
-- 💻 Built foundation in **enterprise development**
-- 👥 **Team collaboration** and **professional workflows**
+- 🔗 Designed **backend API specifications**
 
 </td>
 </tr>
@@ -161,13 +151,14 @@ I'm a seasoned **Full-Stack Developer** with **5+ years** of experience building
 
 <div align="center">
   
-| 🎯 **Achievement** | 📊 **Impact** | 🏢 **Company** |
-|:------------------:|:-------------:|:--------------:|
-| <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **User Engagement** | **40% increase** | Newgen Software |
-| <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **Development Speed** | **30% time reduction** | Cognizant |
-| <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Code Quality** | **95%+ standards** | Team Leadership |
-| <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> **Scalability** | **50,000+ users** | Enterprise Systems |
+| 🎯 **Achievement** | 📊 **Impact** | 🏢 **Environment** |
+|:------------------:|:-------------:|:-----------------:|
+| <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **User Engagement** | **40% increase** | Product-Based (Newgen) |
+| <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **Development Speed** | **30% time reduction** | Service-Based (Cognizant) |
+| <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Code Quality** | **95%+ standards** | All Environments |
+| <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> **Scalability** | **50,000+ users** | Fortune 500 Clients |
 | <img src="https://user-images.githubusercontent.com/74038190/212284175-f47d74f6-9f75-4bb7-b3b8-c06b2aa51f5a.gif" width="30"> **Recognition** | **"Hive Five" Award** | Newgen Software |
+| <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> **Innovation** | **AI Integration** | Startup (Sense & Respond) |
 
 </div>
 
@@ -184,6 +175,7 @@ I'm a seasoned **Full-Stack Developer** with **5+ years** of experience building
 <td width="50%">
 
 ### 🤖 **AI-Driven API Testing Platform**
+<sub>**🌟 Startup Innovation • Sense & Respond**</sub>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 **Tech Stack:** React.js, TypeScript, Node.js, Microservices
@@ -196,6 +188,7 @@ I'm a seasoned **Full-Stack Developer** with **5+ years** of experience building
 <td width="50%">
 
 ### 📄 **Enterprise PDF Editing Solution**
+<sub>**🏢 Product Excellence • Newgen Software**</sub>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
 
 **Tech Stack:** React.js, Node.js, Express.js, File APIs
@@ -210,12 +203,14 @@ I'm a seasoned **Full-Stack Developer** with **5+ years** of experience building
 <td colspan="2" align="center">
 
 ### 🏪 **Fortune 500 Enterprise Solutions**
+<sub>**🌐 Service Excellence • Cognizant Technology Solutions**</sub>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
 
 **Clients:** Staples, Verizon Telecommunications | **Tech Stack:** MERN, Redux, Enterprise APIs
 - 🏢 **Staples:** E-commerce platform optimization and feature development
 - 📞 **Verizon:** Telecommunications system integration and UI development  
 - 📊 **50,000+ concurrent users** supported across multiple enterprise applications
+- 🔗 Full-stack development from UI components to backend API specifications
 
 </td>
 </tr>
@@ -278,8 +273,8 @@ I'm a seasoned **Full-Stack Developer** with **5+ years** of experience building
 <tr>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"><br>
-<sub><b>🎯 Diverse Experience</b></sub><br>
-<sub>Startup to Enterprise</sub>
+<sub><b>🔄 Complete Journey</b></sub><br>
+<sub>Service → Product → Startup</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100"><br>
@@ -289,12 +284,12 @@ I'm a seasoned **Full-Stack Developer** with **5+ years** of experience building
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"><br>
 <sub><b>👥 Leadership</b></sub><br>
-<sub>5+ developers mentored</sub>
+<sub>5+ developers mentored • 95% quality</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212284175-f47d74f6-9f75-4bb7-b3b8-c06b2aa51f5a.gif" width="100"><br>
 <sub><b>🏢 Enterprise Ready</b></sub><br>
-<sub>Fortune 500 Experience</sub>
+<sub>Fortune 500 • Staples • Verizon</sub>
 </td>
 </tr>
 </table>
@@ -348,7 +343,7 @@ I'm a seasoned **Full-Stack Developer** with **5+ years** of experience building
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=%F0%9F%92%BC+Open+to+Senior+Full-Stack+opportunities!;%F0%9F%A4%9D+Let's+build+something+amazing+together!;%E2%9A%A1+Always+learning+and+growing!" alt="Closing Message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=%F0%9F%92%BC+Open+to+Senior+Full-Stack+opportunities!;%F0%9F%8C%9F+Service+%E2%86%92+Product+%E2%86%92+Startup+expertise;%E2%9A%A1+Building+scalable+solutions+across+all+environments!" alt="Closing Message" />
 
 <br>
 
