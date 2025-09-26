@@ -1,6 +1,6 @@
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Animesh+Srivastava;Senior+Full-Stack+Developer+(MERN);5%2B+Years+%7C+Fortune+500+Clients;Building+Scalable+Enterprise+Solutions+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=950&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Animesh+Srivastava;Senior+Full-Stack+Developer+(MERN);5%2B+Years+%7C+Internship+%E2%86%92+Service+%E2%86%92+Product+%E2%86%92+Startup;Building+Scalable+Enterprise+Solutions+%F0%9F%9A%80)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Results-driven%E2%9A%A1+40%25+engagement+increase;30%25+time+reduction%E2%9A%A1+95%25%2B+code+quality;Fortune+500+clients%E2%9A%A1+Startup+to+Enterprise" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Fortune+500+%E2%9A%A1+Staples+%26+Verizon+%E2%9A%A1+40%25+engagement+boost;Internship+%E2%86%92+Service+%E2%86%92+Product+%E2%86%92+Startup+journey;95%25%2B+code+quality+%E2%9A%A1+30%25+time+reduction+%E2%9A%A1+HCL+to+AI" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -22,8 +22,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm a seasoned **Full-Stack Developer** with **5 years** of diverse experience across service-based, product-based, and startup environments. I specialize in building scalable end-to-end web applications for enterprise clients including **Staples**, **Verizon**, and **Fortune 500** companies.
+I'm a seasoned **Full-Stack Developer** with **5+ years** of comprehensive experience across **internship**, **service-based**, **product-based**, and **startup** environments. I specialize in building scalable end-to-end web applications for enterprise clients including **Staples**, **Verizon**, and **Fortune 500** companies.
 
+- 🚀 **Complete Journey:** HCL Internship → Service-based (Cognizant) → Product-based (Newgen) → Startup (Sense & Respond)
 - 🔭 Currently leading **AI-driven API testing platform** development
 - 🌱 Expert in **MERN stack** with **enterprise-grade** solutions  
 - 👯 Mentored **5+ developers** and established **95%+ code quality** standards
@@ -85,36 +86,78 @@ I'm a seasoned **Full-Stack Developer** with **5 years** of diverse experience a
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Professional Experience
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Complete Professional Journey: Internship → Service → Product → Startup
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🚀 **Full Stack Engineer**
-**Sense & Respond Software LLC** | *Nov 2024 - Present*
+**Sense & Respond Software LLC** | *Nov 2024 - Present*  
+<sub>**🌟 Early-Stage Startup Environment**</sub>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
 
 **Key Achievements:**
 - 🎯 Engineering **advanced UI Automation** feature
 - 🤖 Leading **AI-driven API testing platform** 
 - ⚡ **40% reduction** in form submission errors
 - 🔐 Architected **RBAC system** with JWT
+- 📱 Screen recording technology integration
+- 🔧 **Multiple roles**: DB design to frontend architecture
 
 </td>
 <td width="50%">
 
 ### 💎 **Senior Software Design Engineer**  
-**Newgen Software** | *Aug 2022 - Aug 2024*
+**Newgen Software** | *Aug 2022 - Aug 2024*  
+<sub>**🏢 Product-Based Company**</sub>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280">
 
 **Key Achievements:**
 - 🏆 **Awarded "Hive Five"** for exceptional performance
 - 📄 **Premium inline PDF editing** from scratch
 - 📈 **40% increase** in user engagement
-- 👥 Mentored **5+ developers**
+- 👥 Mentored **5+ developers**, **95%+ code quality**
+- 🔧 Led **3 major enterprise products**
+- 📊 Optimized for **10,000+ daily users**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ **Programmer Analyst**
+**Cognizant Technology Solutions** | *Jul 2020 - Jul 2022*  
+<sub>**🌐 Service-Based • Fortune 500 Clients**</sub>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="280">
+
+**Key Achievements:**
+- 🏢 Delivered solutions for **Verizon telecommunications**
+- 🏪 Built applications for **Staples** enterprise systems
+- ⚡ **30% reduction** in development time
+- 📱 **Redux state management** for **50,000+ users**
+- 🎨 Led **UI/UX requirement analysis**
+- 🔗 Designed **backend API specifications**
+
+</td>
+<td width="50%">
+
+### 🎯 **SDE Intern**
+**HCL InfoSystems** | *Jan 2019 - Jun 2019*  
+<sub>**🌱 Foundation Building • Industry Best Practices**</sub>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284175-f47d74f6-9f75-4bb7-b3b8-c06b2aa51f5a.gif" width="280">
+
+**Key Learning & Achievements:**
+- 🚀 **Hands-on full-stack development** experience
+- 📚 Mastered **industry best practices** and standards
+- 💻 Built foundation in **enterprise development**
+- 🔧 Exposure to **large-scale software systems**
+- 👥 **Team collaboration** and **professional workflows**
+- 📈 **6-month intensive** learning program
 
 </td>
 </tr>
@@ -124,17 +167,18 @@ I'm a seasoned **Full-Stack Developer** with **5 years** of diverse experience a
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Key Achievements
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Key Achievements Across Career Journey
 
 <div align="center">
   
-| 🎯 **Achievement** | 📊 **Impact** | 🚀 **Technology** |
-|:------------------:|:-------------:|:-----------------:|
-| <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **User Engagement** | **40% increase** | React.js Solutions |
-| <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **Development Speed** | **30% time reduction** | Reusable Components |
-| <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Code Quality** | **95%+ standards** | Team Leadership |
-| <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> **Scalability** | **50,000+ users** | MERN Architecture |
-| <img src="https://user-images.githubusercontent.com/74038190/212284175-f47d74f6-9f75-4bb7-b3b8-c06b2aa51f5a.gif" width="30"> **Recognition** | **"Hive Five" Award** | Exceptional Performance |
+| 🎯 **Achievement** | 📊 **Impact** | 🏢 **Environment** | 🚀 **Growth Stage** |
+|:------------------:|:-------------:|:-----------------:|:-------------------:|
+| <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> **User Engagement** | **40% increase** | Product-Based (Newgen) | Advanced |
+| <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> **Development Speed** | **30% time reduction** | Service-Based (Cognizant) | Intermediate |
+| <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Code Quality** | **95%+ standards** | All Environments | Leadership |
+| <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"> **Scalability** | **50,000+ users** | Fortune 500 Clients | Expert |
+| <img src="https://user-images.githubusercontent.com/74038190/212284175-f47d74f6-9f75-4bb7-b3b8-c06b2aa51f5a.gif" width="25"> **Recognition** | **"Hive Five" Award** | Newgen Software | Senior |
+| <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> **Foundation** | **Industry Best Practices** | HCL InfoSystems | Intern |
 
 </div>
 
@@ -151,6 +195,7 @@ I'm a seasoned **Full-Stack Developer** with **5 years** of diverse experience a
 <td width="50%">
 
 ### 🤖 **AI-Driven API Testing Platform**
+<sub>**🌟 Startup Innovation • Sense & Respond**</sub>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 **Tech Stack:** React.js, TypeScript, Node.js, Microservices
@@ -163,6 +208,7 @@ I'm a seasoned **Full-Stack Developer** with **5 years** of diverse experience a
 <td width="50%">
 
 ### 📄 **Enterprise PDF Editing Solution**
+<sub>**🏢 Product Excellence • Newgen Software**</sub>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
 
 **Tech Stack:** React.js, Node.js, Express.js, File APIs
@@ -170,6 +216,21 @@ I'm a seasoned **Full-Stack Developer** with **5 years** of diverse experience a
 - 🏗️ Comprehensive frontend architecture
 - ⚡ Backend document processing
 - 👥 Served 10,000+ daily active users
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🏪 **Fortune 500 Enterprise Solutions**
+<sub>**🌐 Service Excellence • Cognizant Technology Solutions**</sub>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
+
+**Clients:** Staples, Verizon Telecommunications | **Tech Stack:** MERN, Redux, Enterprise APIs
+- 🏢 **Staples:** E-commerce platform optimization and feature development
+- 📞 **Verizon:** Telecommunications system integration and UI development  
+- 📊 **50,000+ concurrent users** supported across multiple enterprise applications
+- 🔗 Full-stack development from UI components to backend API specifications
 
 </td>
 </tr>
@@ -209,7 +270,7 @@ I'm a seasoned **Full-Stack Developer** with **5 years** of diverse experience a
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284175-f47d74f6-9f75-4bb7-b3b8-c06b2aa51f5a.gif" width="25"> Education & Certifications
+## <img src="https://user-images.githubusercontent.com/74038190/212284175-f47d74f6-9f75-4bb7-b3b8-c06b2aa51f5a.gif" width="25"> Education
 
 <div align="center">
   
@@ -232,8 +293,8 @@ I'm a seasoned **Full-Stack Developer** with **5 years** of diverse experience a
 <tr>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"><br>
-<sub><b>🔄 Diverse Experience</b></sub><br>
-<sub>Service-based • Product-based • Startup</sub>
+<sub><b>🎯 Complete Journey</b></sub><br>
+<sub>Internship → Service → Product → Startup</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100"><br>
@@ -248,7 +309,7 @@ I'm a seasoned **Full-Stack Developer** with **5 years** of diverse experience a
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212284175-f47d74f6-9f75-4bb7-b3b8-c06b2aa51f5a.gif" width="100"><br>
 <sub><b>🏢 Enterprise Ready</b></sub><br>
-<sub>Fortune 500 • Staples • Verizon</sub>
+<sub>Fortune 500 • HCL to AI Startups</sub>
 </td>
 </tr>
 </table>
@@ -302,7 +363,7 @@ I'm a seasoned **Full-Stack Developer** with **5 years** of diverse experience a
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=%F0%9F%92%BC+Open+to+Senior+Full-Stack+opportunities!;%F0%9F%A4%9D+Let's+build+something+amazing+together!;%E2%9A%A1+Building+scalable+solutions+that+make+a+difference" alt="Closing Message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=950&lines=%F0%9F%92%BC+Open+to+Senior+Full-Stack+opportunities!;%F0%9F%9A%80+From+HCL+Intern+to+AI+Startup+Leader;%E2%9A%A1+Building+scalable+solutions+across+all+environments!" alt="Closing Message" />
 
 <br>
 
