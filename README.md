@@ -74,15 +74,12 @@ I'm a seasoned Full-Stack Developer with **5 years** of diverse experience acros
 
 ## 🎯 Key Achievements
 
-const achievements = {
-userEngagement: "↗️ 40% increase through innovative React.js solutions",
-developmentEfficiency: "⚡ 30% time reduction via reusable components",
-codeQuality: "🎯 95%+ standards maintained across teams",
-scalability: "📈 Applications serving 50,000+ concurrent users",
-mentorship: "👥 5+ developers guided to senior levels",
-recognition: "🏆 'Hive Five' award for exceptional performance"
-};
-
+- 📈 **40% increase** in user engagement through innovative React.js solutions
+- ⚡ **30% time reduction** in development via reusable components  
+- 🎯 **95%+ code quality** standards maintained across teams
+- 📊 **50,000+ concurrent users** supported by scalable applications
+- 👥 **5+ developers** mentored and guided to senior levels
+- 🏆 **"Hive Five" award** for exceptional performance at Newgen
 
 ---
 
@@ -111,12 +108,12 @@ recognition: "🏆 'Hive Five' award for exceptional performance"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=animeshsrivastava1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshsrivastava1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshsrivastava1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -148,8 +145,8 @@ Built scalable solutions for Fortune 500 clients including Staples, Verizon, and
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://animesh-srivastava-dfrvojm.gamma.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animesh-srivastava-166376b3/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastava.animesh99@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919219902131)
 
@@ -160,7 +157,7 @@ Built scalable solutions for Fortune 500 clients including Staples, Verizon, and
 ## 📈 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=animeshsrivastava1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
